@@ -1,0 +1,108 @@
+{"frames": {
+
+"10.png":
+{
+	"frame": {"x":365,"y":454,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"11.png":
+{
+	"frame": {"x":2,"y":454,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"12.png":
+{
+	"frame": {"x":1454,"y":228,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"13.png":
+{
+	"frame": {"x":1091,"y":228,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"14.png":
+{
+	"frame": {"x":728,"y":228,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"15.png":
+{
+	"frame": {"x":365,"y":228,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"16.png":
+{
+	"frame": {"x":2,"y":228,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"5.png":
+{
+	"frame": {"x":1454,"y":2,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"6.png":
+{
+	"frame": {"x":1091,"y":2,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"7.png":
+{
+	"frame": {"x":728,"y":2,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"8.png":
+{
+	"frame": {"x":365,"y":2,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+},
+"9.png":
+{
+	"frame": {"x":2,"y":2,"w":361,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":361,"h":224},
+	"sourceSize": {"w":361,"h":224}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "jumpactack.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f211770c465a23b2669396de79bff40:1/1$"
+}
+}
